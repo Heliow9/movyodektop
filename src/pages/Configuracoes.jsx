@@ -919,7 +919,7 @@ const handleChange = (e) => {
     }
   };
 
-  const const mapboxToken = import.meta.env.VITE_MAPBOX_TOKEN
+  const  mapboxToken = import.meta.env.VITE_MAPBOX_TOKEN
 
   const buscarCoordenadasEndereco = async (formAtualizado) => {
     const { enderecoRua, enderecoNumero, enderecoBairro, enderecoCidade, enderecoEstado } = formAtualizado;
