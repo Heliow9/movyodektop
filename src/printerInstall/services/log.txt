@@ -1,0 +1,847 @@
+[2025-06-10T21:15:37.982Z] Iniciando serviço na porta 9100
+[2025-06-10T21:15:37.992Z] Servidor escutando na porta 9100
+[2025-06-10T21:34:35.665Z] Cliente conectado via socket
+[2025-06-10T21:34:35.672Z] Cliente conectado via socket
+[2025-06-10T21:34:35.968Z] Cliente conectado via socket
+[2025-06-10T21:34:35.973Z] Cliente conectado via socket
+[2025-06-10T21:34:36.084Z] Cliente conectado via socket
+[2025-06-10T21:34:36.088Z] Cliente conectado via socket
+[2025-06-10T21:34:36.158Z] Cliente conectado via socket
+[2025-06-10T21:34:36.163Z] Cliente conectado via socket
+[2025-06-10T21:34:36.228Z] Cliente conectado via socket
+[2025-06-10T21:34:36.235Z] Cliente conectado via socket
+[2025-06-10T21:34:40.199Z] Cliente conectado via socket
+[2025-06-10T21:34:40.202Z] Cliente conectado via socket
+[2025-06-10T21:35:13.491Z] Cliente conectado via socket
+[2025-06-10T21:35:13.527Z] Cliente conectado via socket
+[2025-06-10T21:35:16.714Z] Cliente conectado via socket
+[2025-06-10T21:35:16.716Z] Cliente conectado via socket
+[2025-06-10T21:35:17.027Z] Cliente conectado via socket
+[2025-06-10T21:35:17.042Z] Cliente conectado via socket
+[2025-06-10T21:35:17.723Z] Cliente conectado via socket
+[2025-06-10T21:35:17.725Z] Cliente conectado via socket
+[2025-06-10T21:35:17.905Z] Cliente conectado via socket
+[2025-06-10T21:35:17.907Z] Cliente conectado via socket
+[2025-06-10T21:35:17.991Z] Cliente conectado via socket
+[2025-06-10T21:35:17.994Z] Cliente conectado via socket
+[2025-06-10T21:35:18.081Z] Cliente conectado via socket
+[2025-06-10T21:35:18.084Z] Cliente conectado via socket
+[2025-06-10T21:35:18.310Z] Cliente conectado via socket
+[2025-06-10T21:35:18.313Z] Cliente conectado via socket
+[2025-06-10T21:35:18.816Z] Cliente conectado via socket
+[2025-06-10T21:35:18.819Z] Cliente conectado via socket
+[2025-06-10T21:35:18.943Z] Cliente conectado via socket
+[2025-06-10T21:35:18.948Z] Cliente conectado via socket
+[2025-06-10T21:35:19.021Z] Cliente conectado via socket
+[2025-06-10T21:35:19.024Z] Cliente conectado via socket
+[2025-06-10T21:35:19.148Z] Cliente conectado via socket
+[2025-06-10T21:35:19.151Z] Cliente conectado via socket
+[2025-06-10T21:35:19.392Z] Cliente conectado via socket
+[2025-06-10T21:35:19.395Z] Cliente conectado via socket
+[2025-06-10T21:35:19.519Z] Cliente conectado via socket
+[2025-06-10T21:35:19.534Z] Cliente conectado via socket
+[2025-06-10T21:35:19.634Z] Cliente conectado via socket
+[2025-06-10T21:35:19.636Z] Cliente conectado via socket
+[2025-06-10T21:35:19.984Z] Cliente conectado via socket
+[2025-06-10T21:35:19.987Z] Cliente conectado via socket
+[2025-06-10T21:35:19.990Z] Cliente conectado via socket
+[2025-06-10T21:35:19.993Z] Cliente conectado via socket
+[2025-06-10T21:35:19.996Z] Cliente conectado via socket
+[2025-06-10T21:35:19.998Z] Cliente conectado via socket
+[2025-06-10T21:35:20.107Z] Cliente conectado via socket
+[2025-06-10T21:35:20.110Z] Cliente conectado via socket
+[2025-06-10T21:35:20.501Z] Cliente conectado via socket
+[2025-06-10T21:35:20.503Z] Cliente conectado via socket
+[2025-06-10T21:35:25.427Z] Cliente conectado via socket
+[2025-06-10T21:35:25.433Z] Cliente conectado via socket
+[2025-06-10T21:35:26.161Z] Cliente conectado via socket
+[2025-06-10T21:35:26.166Z] Cliente conectado via socket
+[2025-06-10T22:13:13.745Z] Cliente conectado via socket
+[2025-06-10T22:13:13.752Z] Cliente conectado via socket
+[2025-06-10T22:13:14.364Z] Cliente conectado via socket
+[2025-06-10T22:13:14.373Z] Cliente conectado via socket
+[2025-06-10T22:13:14.878Z] Cliente conectado via socket
+[2025-06-10T22:13:14.883Z] Cliente conectado via socket
+[2025-06-10T22:13:18.527Z] Cliente conectado via socket
+[2025-06-10T22:13:18.532Z] Cliente conectado via socket
+[2025-06-11T00:00:45.088Z] Iniciando serviço na porta 9100
+[2025-06-11T00:00:45.100Z] Servidor escutando na porta 9100
+[2025-06-11T00:00:45.171Z] Cliente conectado via socket
+[2025-06-11T00:00:45.177Z] Cliente conectado via socket
+[2025-06-11T00:00:45.182Z] Cliente conectado via socket
+[2025-06-11T00:00:45.185Z] Cliente conectado via socket
+[2025-06-11T00:00:45.191Z] Cliente conectado via socket
+[2025-06-11T00:00:45.194Z] Cliente conectado via socket
+[2025-06-11T00:00:45.196Z] Cliente conectado via socket
+[2025-06-11T00:00:45.198Z] Cliente conectado via socket
+[2025-06-11T00:00:45.203Z] Cliente conectado via socket
+[2025-06-11T00:00:45.206Z] Cliente conectado via socket
+[2025-06-11T00:00:45.210Z] Cliente conectado via socket
+[2025-06-11T00:00:45.213Z] Cliente conectado via socket
+[2025-06-11T00:00:45.413Z] Cliente conectado via socket
+[2025-06-11T00:00:45.417Z] Cliente conectado via socket
+[2025-06-11T00:00:46.428Z] Cliente conectado via socket
+[2025-06-11T00:00:46.433Z] Cliente conectado via socket
+[2025-06-11T00:00:46.436Z] Cliente conectado via socket
+[2025-06-11T00:00:46.437Z] Cliente conectado via socket
+[2025-06-11T00:00:48.421Z] Cliente conectado via socket
+[2025-06-11T00:00:48.424Z] Cliente conectado via socket
+[2025-06-11T00:00:48.428Z] Cliente conectado via socket
+[2025-06-11T00:00:48.430Z] Cliente conectado via socket
+[2025-06-11T00:00:48.434Z] Cliente conectado via socket
+[2025-06-11T00:00:49.422Z] Cliente conectado via socket
+[2025-06-11T00:00:50.413Z] Cliente conectado via socket
+[2025-06-11T00:00:50.416Z] Cliente conectado via socket
+[2025-06-11T00:06:33.470Z] Cliente conectado via socket
+[2025-06-11T00:06:33.478Z] Imprimindo layout entregaA para impressora G250
+[2025-06-11T00:06:33.686Z] Impressão enviada. Job ID: 2
+[2025-06-11T00:06:36.657Z] Cliente conectado via socket
+[2025-06-11T00:06:36.662Z] Cliente conectado via socket
+[2025-06-11T00:06:37.169Z] Cliente conectado via socket
+[2025-06-11T00:06:37.176Z] Cliente conectado via socket
+[2025-06-11T00:06:37.347Z] Cliente conectado via socket
+[2025-06-11T00:06:37.350Z] Cliente conectado via socket
+[2025-06-11T00:06:37.459Z] Cliente conectado via socket
+[2025-06-11T00:06:37.468Z] Cliente conectado via socket
+[2025-06-11T00:06:37.568Z] Cliente conectado via socket
+[2025-06-11T00:06:37.574Z] Cliente conectado via socket
+[2025-06-11T00:06:39.418Z] Cliente conectado via socket
+[2025-06-11T00:06:39.424Z] Cliente conectado via socket
+[2025-06-11T00:06:45.014Z] Cliente conectado via socket
+[2025-06-11T00:06:45.021Z] Cliente conectado via socket
+[2025-06-11T00:06:46.896Z] Cliente conectado via socket
+[2025-06-11T00:06:46.901Z] Cliente conectado via socket
+[2025-06-11T00:06:48.843Z] Imprimindo layout entregaA para impressora G250
+[2025-06-11T00:06:48.919Z] Impressão enviada. Job ID: 3
+[2025-06-11T00:06:55.558Z] Imprimindo layout entregaA para impressora G250
+[2025-06-11T00:06:55.635Z] Impressão enviada. Job ID: 4
+[2025-06-11T00:07:01.454Z] Imprimindo layout entregaA para impressora G250
+[2025-06-11T00:07:01.529Z] Impressão enviada. Job ID: 5
+[2025-06-11T00:08:57.371Z] Iniciando serviço na porta 9100
+[2025-06-11T00:08:57.382Z] Servidor escutando na porta 9100
+[2025-06-11T00:12:09.767Z] Cliente conectado via socket
+[2025-06-11T00:12:09.816Z] Imprimindo layout entregaA para impressora G250
+[2025-06-11T00:12:10.191Z] Impressão enviada. Job ID: 6
+[2025-06-11T00:12:23.453Z] Imprimindo layout entregaA para impressora G250
+[2025-06-11T00:12:23.531Z] Impressão enviada. Job ID: 7
+[2025-06-11T00:12:29.857Z] Imprimindo layout entregaA para impressora G250
+[2025-06-11T00:12:29.935Z] Impressão enviada. Job ID: 8
+[2025-06-11T18:45:23.090Z] Iniciando serviço na porta 9100
+[2025-06-11T18:45:23.103Z] Servidor escutando na porta 9100
+[2025-06-11T18:45:29.751Z] Cliente conectado via socket
+[2025-06-11T18:45:29.755Z] Cliente conectado via socket
+[2025-06-11T18:45:30.288Z] Cliente conectado via socket
+[2025-06-11T18:45:30.295Z] Cliente conectado via socket
+[2025-06-11T18:45:30.388Z] Cliente conectado via socket
+[2025-06-11T18:45:30.393Z] Cliente conectado via socket
+[2025-06-11T18:45:30.501Z] Cliente conectado via socket
+[2025-06-11T18:45:30.504Z] Cliente conectado via socket
+[2025-06-11T18:45:30.603Z] Cliente conectado via socket
+[2025-06-11T18:45:30.607Z] Cliente conectado via socket
+[2025-06-11T18:45:30.694Z] Cliente conectado via socket
+[2025-06-11T18:45:30.700Z] Cliente conectado via socket
+[2025-06-11T18:45:32.282Z] Cliente conectado via socket
+[2025-06-11T18:45:32.290Z] Cliente conectado via socket
+[2025-06-11T18:45:36.510Z] Cliente conectado via socket
+[2025-06-11T18:45:36.515Z] Cliente conectado via socket
+[2025-06-11T18:45:38.112Z] Cliente conectado via socket
+[2025-06-11T18:45:38.117Z] Cliente conectado via socket
+[2025-06-11T18:45:40.242Z] Cliente conectado via socket
+[2025-06-11T18:45:40.250Z] Imprimindo layout entregaA para impressora G250
+[2025-06-11T18:45:40.436Z] Impressão enviada. Job ID: 10
+[2025-06-11T18:52:37.182Z] Cliente conectado via socket
+[2025-06-11T18:52:37.193Z] Cliente conectado via socket
+[2025-06-11T18:52:37.748Z] Cliente conectado via socket
+[2025-06-11T18:52:37.751Z] Cliente conectado via socket
+[2025-06-11T18:52:37.860Z] Cliente conectado via socket
+[2025-06-11T18:52:37.863Z] Cliente conectado via socket
+[2025-06-11T18:52:38.745Z] Cliente conectado via socket
+[2025-06-11T18:52:38.750Z] Cliente conectado via socket
+[2025-06-11T18:52:39.084Z] Cliente conectado via socket
+[2025-06-11T18:52:39.093Z] Cliente conectado via socket
+[2025-06-11T18:52:42.166Z] Cliente conectado via socket
+[2025-06-11T18:52:42.171Z] Cliente conectado via socket
+[2025-06-11T18:52:47.515Z] Cliente conectado via socket
+[2025-06-11T18:52:47.519Z] Cliente conectado via socket
+[2025-06-11T18:52:49.997Z] Cliente conectado via socket
+[2025-06-11T18:52:50.003Z] Cliente conectado via socket
+[2025-06-11T18:52:51.014Z] Cliente conectado via socket
+[2025-06-11T18:52:51.023Z] Cliente conectado via socket
+[2025-06-11T18:53:01.251Z] Cliente conectado via socket
+[2025-06-11T18:53:01.293Z] Cliente conectado via socket
+[2025-06-11T18:57:12.434Z] Cliente conectado via socket
+[2025-06-11T18:57:12.452Z] Cliente conectado via socket
+[2025-06-11T18:57:19.496Z] Cliente conectado via socket
+[2025-06-11T18:57:19.505Z] Cliente conectado via socket
+[2025-06-11T18:57:20.087Z] Cliente conectado via socket
+[2025-06-11T18:57:20.106Z] Cliente conectado via socket
+[2025-06-11T18:57:24.273Z] Cliente conectado via socket
+[2025-06-11T18:57:24.279Z] Cliente conectado via socket
+[2025-06-11T18:57:34.438Z] Cliente conectado via socket
+[2025-06-11T18:57:34.442Z] Cliente conectado via socket
+[2025-06-11T18:57:36.305Z] Cliente conectado via socket
+[2025-06-11T18:57:36.329Z] Cliente conectado via socket
+[2025-06-11T18:57:39.121Z] Cliente conectado via socket
+[2025-06-11T18:57:39.128Z] Cliente conectado via socket
+[2025-06-11T18:57:39.805Z] Cliente conectado via socket
+[2025-06-11T18:57:39.818Z] Cliente conectado via socket
+[2025-06-11T18:57:44.655Z] Cliente conectado via socket
+[2025-06-11T18:57:44.661Z] Cliente conectado via socket
+[2025-06-11T18:59:03.928Z] Cliente conectado via socket
+[2025-06-11T18:59:03.935Z] Cliente conectado via socket
+[2025-06-11T18:59:04.573Z] Cliente conectado via socket
+[2025-06-11T18:59:04.580Z] Cliente conectado via socket
+[2025-06-11T18:59:06.461Z] Cliente conectado via socket
+[2025-06-11T18:59:06.466Z] Cliente conectado via socket
+[2025-06-11T18:59:09.077Z] Cliente conectado via socket
+[2025-06-11T18:59:09.081Z] Cliente conectado via socket
+[2025-06-11T18:59:09.825Z] Cliente conectado via socket
+[2025-06-11T18:59:09.829Z] Cliente conectado via socket
+[2025-06-11T18:59:10.007Z] Cliente conectado via socket
+[2025-06-11T18:59:10.015Z] Cliente conectado via socket
+[2025-06-11T18:59:10.160Z] Cliente conectado via socket
+[2025-06-11T18:59:10.166Z] Cliente conectado via socket
+[2025-06-11T18:59:10.469Z] Cliente conectado via socket
+[2025-06-11T18:59:10.475Z] Cliente conectado via socket
+[2025-06-11T19:00:53.472Z] Cliente conectado via socket
+[2025-06-11T19:00:53.513Z] Cliente conectado via socket
+[2025-06-11T19:04:45.156Z] Cliente conectado via socket
+[2025-06-11T19:04:45.185Z] Cliente conectado via socket
+[2025-06-11T19:04:48.560Z] Cliente conectado via socket
+[2025-06-11T19:04:48.574Z] Cliente conectado via socket
+[2025-06-11T19:04:49.287Z] Cliente conectado via socket
+[2025-06-11T19:04:49.291Z] Cliente conectado via socket
+[2025-06-11T19:04:53.540Z] Cliente conectado via socket
+[2025-06-11T19:04:53.550Z] Cliente conectado via socket
+[2025-06-11T19:04:57.130Z] Cliente conectado via socket
+[2025-06-11T19:04:57.141Z] Cliente conectado via socket
+[2025-06-11T19:04:59.697Z] Cliente conectado via socket
+[2025-06-11T19:04:59.703Z] Cliente conectado via socket
+[2025-06-11T19:05:00.824Z] Cliente conectado via socket
+[2025-06-11T19:05:00.827Z] Cliente conectado via socket
+[2025-06-11T19:05:26.913Z] Cliente conectado via socket
+[2025-06-11T19:05:26.919Z] Cliente conectado via socket
+[2025-06-11T19:05:26.923Z] Cliente conectado via socket
+[2025-06-11T19:05:26.925Z] Cliente conectado via socket
+[2025-06-11T19:05:29.484Z] Cliente conectado via socket
+[2025-06-11T19:05:29.957Z] Cliente conectado via socket
+[2025-06-11T19:05:30.787Z] Cliente conectado via socket
+[2025-06-11T19:05:30.851Z] Cliente conectado via socket
+[2025-06-11T19:20:01.378Z] Cliente conectado via socket
+[2025-06-11T19:20:01.411Z] Cliente conectado via socket
+[2025-06-11T19:21:26.661Z] Cliente conectado via socket
+[2025-06-11T19:21:26.688Z] Cliente conectado via socket
+[2025-06-11T19:21:29.071Z] Cliente conectado via socket
+[2025-06-11T19:21:29.079Z] Cliente conectado via socket
+[2025-06-11T19:21:29.782Z] Cliente conectado via socket
+[2025-06-11T19:21:29.789Z] Cliente conectado via socket
+[2025-06-11T19:21:47.935Z] Cliente conectado via socket
+[2025-06-11T19:21:47.943Z] Cliente conectado via socket
+[2025-06-11T19:21:48.306Z] Cliente conectado via socket
+[2025-06-11T19:21:48.316Z] Cliente conectado via socket
+[2025-06-11T19:21:48.321Z] Cliente conectado via socket
+[2025-06-11T19:21:48.324Z] Cliente conectado via socket
+[2025-06-11T19:21:49.787Z] Cliente conectado via socket
+[2025-06-11T19:21:49.795Z] Cliente conectado via socket
+[2025-06-11T19:21:50.596Z] Cliente conectado via socket
+[2025-06-11T19:21:50.604Z] Cliente conectado via socket
+[2025-06-11T19:21:52.078Z] Cliente conectado via socket
+[2025-06-11T19:21:52.083Z] Cliente conectado via socket
+[2025-06-11T19:21:52.684Z] Cliente conectado via socket
+[2025-06-11T19:21:52.689Z] Cliente conectado via socket
+[2025-06-11T19:22:17.562Z] Cliente conectado via socket
+[2025-06-11T19:22:17.567Z] Cliente conectado via socket
+[2025-06-11T19:22:17.573Z] Cliente conectado via socket
+[2025-06-11T19:22:17.576Z] Cliente conectado via socket
+[2025-06-11T19:22:17.587Z] Cliente conectado via socket
+[2025-06-11T19:22:17.590Z] Cliente conectado via socket
+[2025-06-11T19:22:19.165Z] Cliente conectado via socket
+[2025-06-11T19:22:19.172Z] Cliente conectado via socket
+[2025-06-11T19:22:19.819Z] Cliente conectado via socket
+[2025-06-11T19:22:19.868Z] Cliente conectado via socket
+[2025-06-11T19:22:46.120Z] Cliente conectado via socket
+[2025-06-11T19:22:46.124Z] Cliente conectado via socket
+[2025-06-11T19:22:47.449Z] Cliente conectado via socket
+[2025-06-11T19:22:47.453Z] Cliente conectado via socket
+[2025-06-11T19:22:51.662Z] Cliente conectado via socket
+[2025-06-11T19:22:51.669Z] Cliente conectado via socket
+[2025-06-11T19:22:52.312Z] Cliente conectado via socket
+[2025-06-11T19:22:52.318Z] Cliente conectado via socket
+[2025-06-11T19:23:34.284Z] Cliente conectado via socket
+[2025-06-11T19:23:34.295Z] Cliente conectado via socket
+[2025-06-18T17:50:52.901Z] Iniciando serviço na porta 9100
+[2025-06-18T17:50:52.915Z] Servidor escutando na porta 9100
+[2025-06-18T17:50:52.976Z] Cliente conectado via socket
+[2025-06-18T17:50:52.983Z] Cliente conectado via socket
+[2025-06-18T17:50:52.985Z] Cliente conectado via socket
+[2025-06-18T17:50:52.987Z] Cliente conectado via socket
+[2025-06-18T17:50:52.990Z] Cliente conectado via socket
+[2025-06-18T17:50:52.996Z] Cliente conectado via socket
+[2025-06-18T17:50:52.998Z] Cliente conectado via socket
+[2025-06-18T17:50:53.002Z] Cliente conectado via socket
+[2025-06-18T17:50:53.004Z] Cliente conectado via socket
+[2025-06-18T17:50:53.008Z] Cliente conectado via socket
+[2025-06-18T17:50:54.214Z] Cliente conectado via socket
+[2025-06-18T17:50:54.219Z] Cliente conectado via socket
+[2025-06-18T17:50:54.222Z] Cliente conectado via socket
+[2025-06-18T17:50:54.391Z] Cliente conectado via socket
+[2025-06-18T17:50:54.395Z] Cliente conectado via socket
+[2025-06-18T17:50:54.546Z] Cliente conectado via socket
+[2025-06-18T17:50:54.549Z] Cliente conectado via socket
+[2025-06-18T17:50:55.205Z] Cliente conectado via socket
+[2025-06-18T17:50:55.209Z] Cliente conectado via socket
+[2025-06-18T17:50:55.210Z] Cliente conectado via socket
+[2025-06-18T17:50:55.268Z] Cliente conectado via socket
+[2025-06-18T17:50:55.270Z] Cliente conectado via socket
+[2025-06-18T17:50:56.884Z] Cliente conectado via socket
+[2025-06-18T17:50:56.887Z] Cliente conectado via socket
+[2025-06-18T17:50:56.892Z] Cliente conectado via socket
+[2025-06-18T17:50:56.896Z] Cliente conectado via socket
+[2025-06-18T17:50:56.918Z] Imprimindo layout entregaA para impressora G250
+[2025-06-18T17:50:57.023Z] Impressão enviada. Job ID: 3
+[2025-06-18T17:50:57.031Z] Cliente conectado via socket
+[2025-06-18T17:51:10.494Z] Imprimindo layout entregaA para impressora G250
+[2025-06-18T17:51:10.548Z] Impressão enviada. Job ID: 4
+[2025-06-18T17:51:42.175Z] Imprimindo layout entregaA para impressora G250
+[2025-06-18T17:51:42.225Z] Impressão enviada. Job ID: 5
+[2025-06-18T18:04:26.482Z] Imprimindo layout entregaA para impressora G250
+[2025-06-18T18:04:26.663Z] Impressão enviada. Job ID: 6
+[2025-06-18T18:05:07.658Z] Imprimindo layout entregaA para impressora G250
+[2025-06-18T18:05:07.719Z] Impressão enviada. Job ID: 7
+[2025-06-18T18:13:29.815Z] Cliente conectado via socket
+[2025-06-18T18:13:29.856Z] Imprimindo layout entregaA para impressora G250
+[2025-06-18T18:13:29.995Z] Impressão enviada. Job ID: 8
+[2025-06-18T18:16:58.213Z] Imprimindo layout entregaA para impressora G250
+[2025-06-18T18:16:58.290Z] Impressão enviada. Job ID: 9
+[2025-06-18T18:18:33.510Z] Imprimindo layout entregaA para impressora G250
+[2025-06-18T18:18:33.602Z] Impressão enviada. Job ID: 10
+[2025-06-18T18:22:03.107Z] Imprimindo layout entregaA para impressora G250
+[2025-06-18T18:22:03.187Z] Impressão enviada. Job ID: 12
+[2025-06-18T18:22:36.117Z] Imprimindo layout entregaA para impressora G250
+[2025-06-18T18:22:36.187Z] Impressão enviada. Job ID: 13
+[2025-06-18T18:22:36.190Z] Imprimindo layout entregaA para impressora G250
+[2025-06-18T18:22:36.250Z] Impressão enviada. Job ID: 14
+[2025-06-18T18:24:34.571Z] Imprimindo layout entregaA para impressora G250
+[2025-06-18T18:24:34.625Z] Impressão enviada. Job ID: 15
+[2025-06-18T18:24:34.627Z] Imprimindo layout entregaA para impressora G250
+[2025-06-18T18:24:34.687Z] Impressão enviada. Job ID: 16
+[2025-06-18T18:27:57.526Z] Imprimindo layout entregaA para impressora G250
+[2025-06-18T18:27:57.604Z] Impressão enviada. Job ID: 17
+[2025-06-18T18:30:04.161Z] Imprimindo layout entregaA para impressora G250
+[2025-06-18T18:30:04.234Z] Impressão enviada. Job ID: 18
+[2025-06-18T18:33:33.938Z] Imprimindo layout entregaA para impressora G250
+[2025-06-18T18:33:34.015Z] Impressão enviada. Job ID: 19
+[2025-06-18T18:37:00.573Z] Imprimindo layout entregaA para impressora G250
+[2025-06-18T18:37:00.631Z] Impressão enviada. Job ID: 20
+[2025-06-18T18:37:56.546Z] Imprimindo layout entregaA para impressora G250
+[2025-06-18T18:37:56.604Z] Impressão enviada. Job ID: 21
+[2025-06-18T18:39:44.245Z] Imprimindo layout entregaA para impressora G250
+[2025-06-18T18:39:44.316Z] Impressão enviada. Job ID: 22
+[2025-06-18T18:40:18.374Z] Imprimindo layout entregaA para impressora G250
+[2025-06-18T18:40:18.444Z] Impressão enviada. Job ID: 23
+[2025-06-18T18:42:46.083Z] Imprimindo layout entregaA para impressora G250
+[2025-06-18T18:42:46.144Z] Impressão enviada. Job ID: 24
+[2025-06-28T12:12:29.212Z] Iniciando serviço na porta 9100
+[2025-06-28T12:12:29.221Z] Servidor escutando na porta 9100
+[2025-06-28T12:12:29.258Z] Cliente conectado via socket
+[2025-06-28T12:12:29.262Z] Cliente conectado via socket
+[2025-06-28T12:12:29.265Z] Cliente conectado via socket
+[2025-06-28T12:12:29.268Z] Cliente conectado via socket
+[2025-06-28T12:12:29.271Z] Cliente conectado via socket
+[2025-06-28T12:12:29.276Z] Cliente conectado via socket
+[2025-06-28T12:12:31.222Z] Cliente conectado via socket
+[2025-06-28T12:12:31.226Z] Cliente conectado via socket
+[2025-06-28T12:12:31.227Z] Cliente conectado via socket
+[2025-06-28T12:12:31.230Z] Cliente conectado via socket
+[2025-06-28T12:12:35.486Z] Cliente conectado via socket
+[2025-06-28T12:12:35.489Z] Cliente conectado via socket
+[2025-06-28T12:12:35.835Z] Cliente conectado via socket
+[2025-06-28T12:12:35.838Z] Cliente conectado via socket
+[2025-06-28T12:12:35.898Z] Cliente conectado via socket
+[2025-06-28T12:12:35.902Z] Cliente conectado via socket
+[2025-06-28T12:12:36.118Z] Cliente conectado via socket
+[2025-06-28T12:12:36.121Z] Cliente conectado via socket
+[2025-06-28T12:12:36.188Z] Cliente conectado via socket
+[2025-06-28T12:12:36.191Z] Cliente conectado via socket
+[2025-06-28T12:12:37.656Z] Cliente conectado via socket
+[2025-06-28T12:12:37.661Z] Cliente conectado via socket
+[2025-06-28T12:12:40.077Z] Cliente conectado via socket
+[2025-06-28T12:12:40.083Z] Cliente conectado via socket
+[2025-06-28T12:12:42.304Z] Cliente conectado via socket
+[2025-06-28T12:12:42.308Z] Cliente conectado via socket
+[2025-06-28T12:12:42.428Z] Cliente conectado via socket
+[2025-06-28T12:12:42.431Z] Cliente conectado via socket
+[2025-06-28T12:12:44.420Z] Cliente conectado via socket
+[2025-06-28T12:12:44.424Z] Cliente conectado via socket
+[2025-06-28T12:12:46.040Z] Cliente conectado via socket
+[2025-06-28T12:12:46.044Z] Cliente conectado via socket
+[2025-06-28T12:12:47.563Z] Cliente conectado via socket
+[2025-06-28T12:12:47.569Z] Imprimindo layout entregaA para impressora G250
+[2025-06-28T12:12:47.669Z] Impressão enviada. Job ID: 3
+[2025-07-10T02:06:50.217Z] Iniciando serviço na porta 9100
+[2025-07-10T02:06:50.229Z] Servidor escutando na porta 9100
+[2025-07-10T02:06:50.276Z] Cliente conectado via socket
+[2025-07-10T02:06:50.283Z] Cliente conectado via socket
+[2025-07-10T02:06:50.288Z] Cliente conectado via socket
+[2025-07-10T02:06:51.528Z] Cliente conectado via socket
+[2025-07-10T02:06:51.597Z] Cliente conectado via socket
+[2026-01-27T02:59:22.526Z] FALHA ao carregar @thiagoelg/node-printer | Error: Module did not self-register: '\\?\C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\node_printer.node'.
+    at Object..node (node:internal/modules/cjs/loader:1925:18)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\printer.js:10:22)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+[2026-01-27T03:02:15.738Z] FALHA ao carregar @thiagoelg/node-printer | Error: Module did not self-register: '\\?\C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\node_printer.node'.
+    at Object..node (node:internal/modules/cjs/loader:1925:18)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\printer.js:10:22)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+[2026-01-27T03:03:22.727Z] FALHA ao carregar @thiagoelg/node-printer | Error: Module did not self-register: '\\?\C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\node_printer.node'.
+    at Object..node (node:internal/modules/cjs/loader:1925:18)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\printer.js:10:22)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+[2026-01-27T03:03:24.921Z] FALHA ao carregar @thiagoelg/node-printer | Error: Module did not self-register: '\\?\C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\node_printer.node'.
+    at Object..node (node:internal/modules/cjs/loader:1925:18)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\printer.js:10:22)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+[2026-01-27T03:03:28.100Z] FALHA ao carregar @thiagoelg/node-printer | Error: Module did not self-register: '\\?\C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\node_printer.node'.
+    at Object..node (node:internal/modules/cjs/loader:1925:18)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\printer.js:10:22)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+[2026-01-27T03:03:32.794Z] FALHA ao carregar @thiagoelg/node-printer | Error: Module did not self-register: '\\?\C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\node_printer.node'.
+    at Object..node (node:internal/modules/cjs/loader:1925:18)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\printer.js:10:22)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+[2026-01-27T03:03:39.740Z] FALHA ao carregar @thiagoelg/node-printer | Error: Module did not self-register: '\\?\C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\node_printer.node'.
+    at Object..node (node:internal/modules/cjs/loader:1925:18)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\printer.js:10:22)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+[2026-01-27T03:03:50.038Z] FALHA ao carregar @thiagoelg/node-printer | Error: Module did not self-register: '\\?\C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\node_printer.node'.
+    at Object..node (node:internal/modules/cjs/loader:1925:18)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\printer.js:10:22)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+[2026-01-27T03:04:05.390Z] FALHA ao carregar @thiagoelg/node-printer | Error: Module did not self-register: '\\?\C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\node_printer.node'.
+    at Object..node (node:internal/modules/cjs/loader:1925:18)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\printer.js:10:22)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+[2026-01-27T03:04:14.073Z] FALHA ao carregar @thiagoelg/node-printer | Error: Module did not self-register: '\\?\C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\node_printer.node'.
+    at Object..node (node:internal/modules/cjs/loader:1925:18)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\printer.js:10:22)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+[2026-01-27T03:04:16.256Z] FALHA ao carregar @thiagoelg/node-printer | Error: Module did not self-register: '\\?\C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\node_printer.node'.
+    at Object..node (node:internal/modules/cjs/loader:1925:18)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\printer.js:10:22)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+[2026-01-27T03:04:19.426Z] FALHA ao carregar @thiagoelg/node-printer | Error: Module did not self-register: '\\?\C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\node_printer.node'.
+    at Object..node (node:internal/modules/cjs/loader:1925:18)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\printer.js:10:22)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+[2026-01-27T03:04:24.139Z] FALHA ao carregar @thiagoelg/node-printer | Error: Module did not self-register: '\\?\C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\node_printer.node'.
+    at Object..node (node:internal/modules/cjs/loader:1925:18)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\printer.js:10:22)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+[2026-01-27T03:04:31.065Z] FALHA ao carregar @thiagoelg/node-printer | Error: Module did not self-register: '\\?\C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\node_printer.node'.
+    at Object..node (node:internal/modules/cjs/loader:1925:18)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\printer.js:10:22)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+[2026-01-27T03:04:41.388Z] FALHA ao carregar @thiagoelg/node-printer | Error: Module did not self-register: '\\?\C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\node_printer.node'.
+    at Object..node (node:internal/modules/cjs/loader:1925:18)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\printer.js:10:22)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+[2026-01-27T03:04:52.106Z] FALHA ao carregar @thiagoelg/node-printer | Error: Module did not self-register: '\\?\C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\node_printer.node'.
+    at Object..node (node:internal/modules/cjs/loader:1925:18)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\printer.js:10:22)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+[2026-01-27T03:04:56.763Z] FALHA ao carregar @thiagoelg/node-printer | Error: Module did not self-register: '\\?\C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\node_printer.node'.
+    at Object..node (node:internal/modules/cjs/loader:1925:18)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\printer.js:10:22)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+[2026-01-27T03:05:19.764Z] FALHA ao carregar @thiagoelg/node-printer | Error: Module did not self-register: '\\?\C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\node_printer.node'.
+    at Object..node (node:internal/modules/cjs/loader:1925:18)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\printer.js:10:22)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+[2026-01-27T03:05:54.154Z] FALHA ao carregar @thiagoelg/node-printer | Error: Module did not self-register: '\\?\C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\node_printer.node'.
+    at Object..node (node:internal/modules/cjs/loader:1925:18)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\printer.js:10:22)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+[2026-01-27T03:06:06.386Z] FALHA ao carregar @thiagoelg/node-printer | Error: Module did not self-register: '\\?\C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\node_printer.node'.
+    at Object..node (node:internal/modules/cjs/loader:1925:18)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\printer.js:10:22)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+[2026-01-27T03:06:08.556Z] FALHA ao carregar @thiagoelg/node-printer | Error: Module did not self-register: '\\?\C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\node_printer.node'.
+    at Object..node (node:internal/modules/cjs/loader:1925:18)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\printer.js:10:22)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+[2026-01-27T03:06:11.744Z] FALHA ao carregar @thiagoelg/node-printer | Error: Module did not self-register: '\\?\C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\node_printer.node'.
+    at Object..node (node:internal/modules/cjs/loader:1925:18)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\printer.js:10:22)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+[2026-01-27T03:06:16.454Z] FALHA ao carregar @thiagoelg/node-printer | Error: Module did not self-register: '\\?\C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\node_printer.node'.
+    at Object..node (node:internal/modules/cjs/loader:1925:18)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\printer.js:10:22)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+[2026-01-27T03:12:58.598Z] FALHA ao carregar @thiagoelg/node-printer | Error: Module did not self-register: '\\?\C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\node_printer.node'.
+    at Object..node (node:internal/modules/cjs/loader:1925:18)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\printer.js:10:22)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+[2026-01-27T03:22:06.696Z] BOOT: index.js iniciou
+[2026-01-27T03:22:06.697Z] ENV: node=v24.1.0 pid=28396
+[2026-01-27T03:22:06.697Z] PATH: __dirname=C:\projects\movyo-printer-service
+[2026-01-27T03:22:06.698Z] PATH: cwd=C:\projects\movyo-printer-service
+[2026-01-27T03:22:06.777Z] OK: http + socket.io carregados
+[2026-01-27T03:22:06.788Z] OK: layouts/layoutRegistry carregados
+[2026-01-27T03:22:06.793Z] FALHA: ao carregar @thiagoelg/node-printer (DLL/VC++/arch?) | Error: Module did not self-register: '\\?\C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\node_printer.node'.
+    at Object..node (node:internal/modules/cjs/loader:1925:18)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\printer.js:10:22)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+[2026-01-27T03:22:12.480Z] BOOT: index.js iniciou
+[2026-01-27T03:22:12.481Z] ENV: node=v24.1.0 pid=9572
+[2026-01-27T03:22:12.481Z] PATH: __dirname=C:\projects\movyo-printer-service
+[2026-01-27T03:22:12.481Z] PATH: cwd=C:\projects\movyo-printer-service
+[2026-01-27T03:22:12.557Z] OK: http + socket.io carregados
+[2026-01-27T03:22:12.567Z] OK: layouts/layoutRegistry carregados
+[2026-01-27T03:22:12.572Z] FALHA: ao carregar @thiagoelg/node-printer (DLL/VC++/arch?) | Error: Module did not self-register: '\\?\C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\node_printer.node'.
+    at Object..node (node:internal/modules/cjs/loader:1925:18)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\printer.js:10:22)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+[2026-01-27T03:22:57.032Z] BOOT: index.js iniciou
+[2026-01-27T03:22:57.033Z] ENV: node=v24.1.0 pid=22648
+[2026-01-27T03:22:57.033Z] PATH: __dirname=C:\projects\movyo-printer-service
+[2026-01-27T03:22:57.034Z] PATH: cwd=C:\projects\movyo-printer-service
+[2026-01-27T03:22:57.122Z] OK: http + socket.io carregados
+[2026-01-27T03:22:57.134Z] OK: layouts/layoutRegistry carregados
+[2026-01-27T03:22:57.140Z] FALHA: ao carregar @thiagoelg/node-printer (DLL/VC++/arch?) | Error: Module did not self-register: '\\?\C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\node_printer.node'.
+    at Object..node (node:internal/modules/cjs/loader:1925:18)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\printer.js:10:22)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+[2026-01-27T03:24:18.316Z] BOOT: index.js iniciou
+[2026-01-27T03:24:18.317Z] ENV: node=v24.1.0 pid=17660
+[2026-01-27T03:24:18.317Z] PATH: __dirname=C:\projects\movyo-printer-service
+[2026-01-27T03:24:18.318Z] PATH: cwd=C:\projects\movyo-printer-service
+[2026-01-27T03:24:18.396Z] OK: http + socket.io carregados
+[2026-01-27T03:24:18.416Z] OK: layouts/layoutRegistry carregados
+[2026-01-27T03:24:18.425Z] FALHA: ao carregar @thiagoelg/node-printer (DLL/VC++/arch?) | Error: Module did not self-register: '\\?\C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\node_printer.node'.
+    at Object..node (node:internal/modules/cjs/loader:1925:18)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\printer.js:10:22)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+[2026-01-27T03:28:19.125Z] BOOT: index.js iniciou
+[2026-01-27T03:28:19.126Z] ENV: node=v24.1.0 pid=25760
+[2026-01-27T03:28:19.127Z] PATH: __dirname=C:\projects\movyo-printer-service
+[2026-01-27T03:28:19.127Z] PATH: cwd=C:\projects\movyo-printer-service
+[2026-01-27T03:28:19.203Z] OK: http + socket.io carregados
+[2026-01-27T03:28:19.217Z] OK: layouts/layoutRegistry carregados
+[2026-01-27T03:28:19.223Z] FALHA: ao carregar @thiagoelg/node-printer (DLL/VC++/arch?) | Error: Module did not self-register: '\\?\C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\node_printer.node'.
+    at Object..node (node:internal/modules/cjs/loader:1925:18)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\printer.js:10:22)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+[2026-01-27T07:21:24.037Z] BOOT: index.js iniciou
+[2026-01-27T07:21:24.050Z] ENV: node=v24.1.0 pid=26772
+[2026-01-27T07:21:24.050Z] PATH: __dirname=C:\projects\movyo-printer-service
+[2026-01-27T07:21:24.050Z] PATH: cwd=C:\projects\movyo-printer-service
+[2026-01-27T07:21:24.390Z] OK: http + socket.io carregados
+[2026-01-27T07:21:24.407Z] OK: layouts/layoutRegistry carregados
+[2026-01-27T07:21:24.419Z] FALHA: ao carregar @thiagoelg/node-printer (DLL/VC++/arch?) | Error: Module did not self-register: '\\?\C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\node_printer.node'.
+    at Object..node (node:internal/modules/cjs/loader:1925:18)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\printer.js:10:22)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+[2026-01-27T16:42:33.186Z] BOOT: index.js iniciou
+[2026-01-27T16:42:33.205Z] ENV: node=v24.1.0 pid=17996
+[2026-01-27T16:42:33.205Z] PATH: __dirname=C:\projects\movyo-printer-service
+[2026-01-27T16:42:33.205Z] PATH: cwd=C:\projects\movyo-printer-service
+[2026-01-27T16:42:35.482Z] OK: http + socket.io carregados
+[2026-01-27T16:42:36.016Z] OK: layouts/layoutRegistry carregados
+[2026-01-27T16:42:36.304Z] FALHA: ao carregar @thiagoelg/node-printer (DLL/VC++/arch?) | Error: Module did not self-register: '\\?\C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\node_printer.node'.
+    at Object..node (node:internal/modules/cjs/loader:1925:18)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\printer.js:10:22)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+[2026-05-23T17:30:26.501Z] BOOT: index.js iniciou
+[2026-05-23T17:30:26.503Z] ENV: node=v24.1.0 pid=22916
+[2026-05-23T17:30:26.504Z] PATH: __dirname=C:\projects\movyo-printer-service
+[2026-05-23T17:30:26.504Z] PATH: cwd=C:\projects\movyo-printer-service
+[2026-05-23T17:30:26.651Z] OK: http + socket.io carregados
+[2026-05-23T17:30:26.668Z] OK: layouts/layoutRegistry carregados
+[2026-05-23T17:30:26.679Z] FALHA: ao carregar @thiagoelg/node-printer (DLL/VC++/arch?) | Error: Module did not self-register: '\\?\C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\node_printer.node'.
+    at Object..node (node:internal/modules/cjs/loader:1925:18)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\printer.js:10:22)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+[2026-05-23T17:30:36.252Z] BOOT: index.js iniciou
+[2026-05-23T17:30:36.254Z] ENV: node=v24.1.0 pid=3572
+[2026-05-23T17:30:36.254Z] PATH: __dirname=C:\projects\movyo-printer-service
+[2026-05-23T17:30:36.254Z] PATH: cwd=C:\projects\movyo-printer-service
+[2026-05-23T17:30:36.341Z] OK: http + socket.io carregados
+[2026-05-23T17:30:36.352Z] OK: layouts/layoutRegistry carregados
+[2026-05-23T17:30:36.357Z] FALHA: ao carregar @thiagoelg/node-printer (DLL/VC++/arch?) | Error: Module did not self-register: '\\?\C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\node_printer.node'.
+    at Object..node (node:internal/modules/cjs/loader:1925:18)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\printer.js:10:22)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+[2026-05-23T17:31:02.220Z] BOOT: index.js iniciou
+[2026-05-23T17:31:02.221Z] ENV: node=v24.1.0 pid=21256
+[2026-05-23T17:31:02.221Z] PATH: __dirname=C:\projects\movyo-printer-service
+[2026-05-23T17:31:02.221Z] PATH: cwd=C:\projects\movyo-printer-service
+[2026-05-23T17:31:02.297Z] OK: http + socket.io carregados
+[2026-05-23T17:31:02.310Z] OK: layouts/layoutRegistry carregados
+[2026-05-23T17:31:02.317Z] FALHA: ao carregar @thiagoelg/node-printer (DLL/VC++/arch?) | Error: Module did not self-register: '\\?\C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\node_printer.node'.
+    at Object..node (node:internal/modules/cjs/loader:1925:18)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\projects\movyo-printer-service\node_modules\@thiagoelg\node-printer\lib\printer.js:10:22)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+[2026-05-23T17:40:20.606Z] BOOT: index.js iniciou
+[2026-05-23T17:40:20.607Z] ENV: node=v18.20.2 pid=23416
+[2026-05-23T17:40:20.608Z] PATH: __dirname=C:\projects\movyo-printer-service
+[2026-05-23T17:40:20.608Z] PATH: cwd=C:\projects\movyo-printer-service
+[2026-05-23T17:40:20.753Z] OK: http + socket.io carregados
+[2026-05-23T17:40:20.771Z] OK: layouts/layoutRegistry carregados
+[2026-05-23T17:40:20.790Z] OK: node-printer carregado com sucesso
+[2026-05-23T17:40:20.790Z] INIT: preparando servidor em http://127.0.0.1:9100
+[2026-05-23T17:40:20.803Z] FATAL: erro no servidor HTTP (listen) | Error: listen EADDRINUSE: address already in use 127.0.0.1:9100
+    at Server.setupListenHandle [as _listen2] (node:net:1817:16)
+    at listenInCluster (node:net:1865:12)
+    at doListen (node:net:2014:7)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+[2026-05-23T17:44:07.351Z] BOOT: index.js iniciou
+[2026-05-23T17:44:07.352Z] ENV: node=v18.20.2 pid=11604
+[2026-05-23T17:44:07.353Z] PATH: __dirname=C:\projects\movyo-printer-service
+[2026-05-23T17:44:07.353Z] PATH: cwd=C:\projects\movyo-printer-service
+[2026-05-23T17:44:07.452Z] OK: http + socket.io carregados
+[2026-05-23T17:44:07.464Z] OK: layouts/layoutRegistry carregados
+[2026-05-23T17:44:07.474Z] OK: node-printer carregado com sucesso
+[2026-05-23T17:44:07.474Z] INIT: preparando servidor em http://127.0.0.1:9100
+[2026-05-23T17:44:07.484Z] FATAL: erro no servidor HTTP (listen) | Error: listen EADDRINUSE: address already in use 127.0.0.1:9100
+    at Server.setupListenHandle [as _listen2] (node:net:1817:16)
+    at listenInCluster (node:net:1865:12)
+    at doListen (node:net:2014:7)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)

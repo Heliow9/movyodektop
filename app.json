@@ -1,0 +1,50 @@
+{
+  "expo": {
+    "name": "Movyo Hub",
+    "slug": "movyo-garcom",
+    "scheme": "movyohub",
+    "version": "1.2.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0B0F14"
+    },
+    "updates": {
+      "enabled": true,
+      "checkAutomatically": "ON_LOAD",
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/b770d876-2864-4a5e-92da-7c457cd707ec"
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "buildNumber": "2"
+    },
+    "android": {
+      "package": "com.movyo.garcom",
+      "versionCode": 2,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon-foreground.png",
+        "backgroundColor": "#0B0F14"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-secure-store"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "b770d876-2864-4a5e-92da-7c457cd707ec"
+      }
+    }
+  }
+}

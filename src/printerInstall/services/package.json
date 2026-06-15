@@ -1,0 +1,27 @@
+{
+  "name": "rapigo-printer-service",
+  "version": "1.0.0",
+  "description": "Serviço de impressão via socket",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "start": "node index.js",
+
+    "clean": "rmdir /s /q dist 2>nul || exit 0",
+
+    "build:install": "pkg installer.js --targets node18-win-x64 --output dist/MovyoPrinterService-Install.exe",
+    "build:uninstall": "pkg uninstaller.js --targets node18-win-x64 --output dist/MovyoPrinterService-Uninstall.exe",
+
+    "build:all": "npm run clean && npm run build:install && npm run build:uninstall"
+  },
+  "dependencies": {
+    "@thiagoelg/node-printer": "github:thiagoelg/node-printer",
+    "iconv-lite": "^0.6.3",
+    "moment": "^2.30.1",
+    "socket.io": "^4.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "pkg": "^5.8.1"
+  }
+}

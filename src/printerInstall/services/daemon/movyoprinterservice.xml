@@ -1,0 +1,31 @@
+<service>
+	<id>movyoprinterservice.exe</id>
+	<name>Movyo Printer Service</name>
+	<description>Serviço de impressão Movyo (socket 9100 / USB)</description>
+	<executable>C:\nvm\nodejs\node.exe</executable>
+	<argument>--harmony</argument>
+	<argument>C:\projects\movyo-printer-service\node_modules\node-windows\lib\wrapper.js</argument>
+	<argument>--file</argument>
+	<argument>C:\projects\movyo-printer-service\index.js</argument>
+	<argument>--scriptoptions=</argument>
+	<argument>--log</argument>
+	<argument>Movyo Printer Service wrapper</argument>
+	<argument>--grow</argument>
+	<argument>0.5</argument>
+	<argument>--wait</argument>
+	<argument>2</argument>
+	<argument>--maxrestarts</argument>
+	<argument>10</argument>
+	<argument>--abortonerror</argument>
+	<argument>n</argument>
+	<argument>--stopparentfirst</argument>
+	<argument>undefined</argument>
+	<logmode>rotate</logmode>
+	<stoptimeout>30sec</stoptimeout>
+	<serviceaccount>
+		<domain>DESKTOP-U843QOH</domain>
+		<user>LocalSystem</user>
+		<password></password>
+	</serviceaccount>
+	<workingdirectory>C:\projects\movyo-printer-service</workingdirectory>
+</service>

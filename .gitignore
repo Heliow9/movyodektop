@@ -1,0 +1,237 @@
+# ==============================
+# Dependências
+# ==============================
+node_modules/
+.pnpm-store/
+.yarn/
+.yarn-cache/
+.npm/
+
+# ==============================
+# Builds e distribuições
+# ==============================
+dist/
+build/
+out/
+release/
+releases/
+artifacts/
+packages/
+
+# Electron Builder / Forge
+electron-dist/
+electron-builder-output/
+forge-output/
+*.blockmap
+*.app
+*.dmg
+*.pkg
+*.deb
+*.rpm
+*.AppImage
+*.snap
+*.exe
+*.msi
+*.nsis.7z
+
+# Arquivos compactados
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.rar
+
+# ==============================
+# Atualizações automáticas
+# ==============================
+latest.yml
+latest-mac.yml
+latest-linux.yml
+app-update.yml
+dev-app-update.yml
+builder-debug.yml
+builder-effective-config.yaml
+
+# ==============================
+# Variáveis de ambiente e segredos
+# ==============================
+.env
+.env.*
+!.env.example
+!.env.template
+
+*.pem
+*.key
+*.p12
+*.pfx
+*.cer
+*.crt
+*.mobileprovision
+
+# Certificados de assinatura
+certificates/
+certs/
+signing/
+private/
+secrets/
+
+# ==============================
+# Logs
+# ==============================
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+electron-debug.log*
+debug.log
+
+# ==============================
+# Cache
+# ==============================
+.cache/
+.parcel-cache/
+.vite/
+.eslintcache
+.stylelintcache
+.nyc_output/
+coverage/
+tmp/
+temp/
+.tmp/
+
+# ==============================
+# TypeScript
+# ==============================
+*.tsbuildinfo
+
+# ==============================
+# Testes
+# ==============================
+coverage/
+.nyc_output/
+playwright-report/
+test-results/
+blob-report/
+screenshots/
+videos/
+
+# ==============================
+# Bancos locais
+# ==============================
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+
+# ==============================
+# Arquivos de runtime do Electron
+# ==============================
+userData/
+electron-user-data/
+session-data/
+storage/
+Local Storage/
+Session Storage/
+IndexedDB/
+Cache/
+Code Cache/
+GPUCache/
+Dictionaries/
+Network/
+Cookies
+Cookies-journal
+
+# ==============================
+# Sistema operacional
+# ==============================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Linux
+*~
+.directory
+.Trash-*
+
+# ==============================
+# IDEs e editores
+# ==============================
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/tasks.json
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+.history/
+*.swp
+*.swo
+*.swn
+*~
+
+# ==============================
+# Git
+# ==============================
+*.orig
+*.rej
+
+# ==============================
+# Arquivos locais específicos
+# ==============================
+config.local.*
+settings.local.*
+credentials.*
+service-account*.json
+firebase-adminsdk*.json
+github-token*
+token.txt
+
+# ==============================
+# Crash dumps
+# ==============================
+crash-reports/
+Crashpad/
+*.dmp
+core
+core.*
+
+# ==============================
+# Arquivos gerados pelo projeto
+# ==============================
+generated/
+downloads/
+uploads/
+exports/
+backups/
+
+# Variáveis locais
+.env
+.env.*
+!.env.example
+
+# Build gerado do renderer
+renderer/
+dist/
+build/
+out/
+release/

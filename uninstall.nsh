@@ -1,0 +1,1 @@
+ExecWait '"$INSTDIR\resources\printerInstall\MovyoPrinterService-Uninstall.bat"'
