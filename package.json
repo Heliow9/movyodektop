@@ -56,8 +56,8 @@
     "publish": [
       {
         "provider": "github",
-        "owner": "MovyoTech",
-        "repo": "Movyo-Desktop",
+        "owner": "Heliow9",
+        "repo": "movyodektop",
         "private": true
       }
     ]

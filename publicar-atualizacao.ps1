@@ -13,16 +13,16 @@ try {
 
     $env:GH_TOKEN = $token
 
-    Write-Host "Validando acesso ao repositório MovyoTech/Movyo-Desktop..." -ForegroundColor Yellow
+    Write-Host "Validando acesso ao repositório Heliow9/movyodektop..." -ForegroundColor Yellow
     $headers = @{
         Authorization = "Bearer $token"
         Accept = "application/vnd.github+json"
         "X-GitHub-Api-Version" = "2022-11-28"
-        "User-Agent" = "Movyo-Desktop-Publisher"
+        "User-Agent" = "MovyoDesktop-Publisher"
     }
 
     Invoke-RestMethod `
-        -Uri "https://api.github.com/repos/MovyoTech/Movyo-Desktop" `
+        -Uri "https://api.github.com/repos/Heliow9/movyodektop" `
         -Headers $headers `
         -Method Get | Out-Null
 

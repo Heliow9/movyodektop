@@ -7,7 +7,7 @@ No `package.json`, aumente a versão seguindo SemVer:
 - mudança incompatível: `2.2.0` → `3.0.0`
 
 ## 2. Configure o GitHub
-O `package.json` publica no repositório privado `MovyoTech/Movyo-Desktop`.
+O `package.json` publica no repositório privado `Heliow9/movyodektop`.
 Crie um token do GitHub com acesso ao repositório e, no PowerShell da máquina de build, execute:
 
 ```powershell

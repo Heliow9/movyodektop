@@ -8,7 +8,7 @@
 4. Defina um nome, por exemplo: `Movyo Desktop Releases`.
 5. Escolha uma expiração curta e renovável.
 6. Em **Resource owner**, selecione a conta ou organização que possui o repositório.
-7. Em **Repository access**, escolha **Only select repositories** e selecione `Movyo-Desktop`.
+7. Em **Repository access**, escolha **Only select repositories** e selecione `movyodektop`.
 8. Em **Repository permissions**, conceda **Contents: Read and write**.
 9. Gere o token e copie-o imediatamente.
 
