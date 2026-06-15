@@ -1,6 +1,6 @@
 {
   "name": "movyo-desktop",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "description": "Movyo Food — Sistema desktop para gestão de pedidos, entregas e operações do restaurante.",
   "author": "Movyo Tecnologia",
   "main": "main.js",
@@ -58,7 +58,8 @@
         "provider": "github",
         "owner": "Heliow9",
         "repo": "movyodektop",
-        "private": true
+        "private": false,
+        "releaseType": "release"
       }
     ]
   },

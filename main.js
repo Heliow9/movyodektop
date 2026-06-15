@@ -30,14 +30,24 @@ log.info("🚀 Iniciando main.js");
 const store = new Store();
 let mainWindow;
 let oauthWindow = null;
-let updaterState = { status:'idle', currentVersion:app.getVersion(), availableVersion:null, progress:0, error:null, mandatory:false };
-function publishUpdaterState(patch={}){ updaterState={...updaterState,...patch,currentVersion:app.getVersion()}; if(mainWindow && !mainWindow.isDestroyed()) mainWindow.webContents.send('atualizacao:status',updaterState); return updaterState; }
+let updaterState = {
+  status: "idle",
+  currentVersion: app.getVersion(),
+  availableVersion: null,
+  progress: 0,
+  error: null,
+  mandatory: false,
+  notifyUser: false,
+  checkedAt: null,
+};
+let updateCheckMode = "auto";
 
-const runtimeUpdateToken = String(
-  process.env.MOVYO_UPDATE_TOKEN || process.env.GH_TOKEN || ""
-).trim();
-if (!process.env.GH_TOKEN && runtimeUpdateToken) {
-  process.env.GH_TOKEN = runtimeUpdateToken;
+function publishUpdaterState(patch = {}) {
+  updaterState = { ...updaterState, ...patch, currentVersion: app.getVersion() };
+  if (mainWindow && !mainWindow.isDestroyed()) {
+    mainWindow.webContents.send("atualizacao:status", updaterState);
+  }
+  return updaterState;
 }
 
 autoUpdater.logger = log;
@@ -48,13 +58,13 @@ function friendlyUpdateError(error) {
   const raw = String(error?.message || error || "");
   const lower = raw.toLowerCase();
   if (lower.includes("404") || lower.includes("not found") || lower.includes("releases.atom")) {
-    return "Canal de atualização não encontrado ou sem autorização. Verifique o repositório de releases e o GH_TOKEN.";
+    return "Nenhuma release pública foi encontrada. Publique a versão no GitHub e tente novamente.";
   }
   if (lower.includes("401") || lower.includes("bad credentials") || lower.includes("unauthorized")) {
-    return "Token de atualização inválido, expirado ou sem permissão para acessar as releases.";
+    return "O canal de atualização recusou a consulta. Verifique a configuração da release.";
   }
-  if (lower.includes("403") || lower.includes("forbidden")) {
-    return "O GitHub recusou o acesso ao canal de atualizações. Verifique as permissões do token.";
+  if (lower.includes("403") || lower.includes("forbidden") || lower.includes("rate limit")) {
+    return "O GitHub bloqueou temporariamente a consulta de atualização. Tente novamente em alguns minutos.";
   }
   if (
     lower.includes("enotfound") ||
@@ -65,15 +75,36 @@ function friendlyUpdateError(error) {
   ) {
     return "Não foi possível consultar atualizações agora. Confira a internet e tente novamente.";
   }
-  return "Não foi possível verificar atualizações. O aplicativo continuará funcionando normalmente.";
+  return "O servidor de atualização está temporariamente indisponível. O aplicativo continuará funcionando normalmente.";
 }
 
-function reportUpdaterError(error) {
+function reportUpdaterError(error, { manual = updateCheckMode === "manual" } = {}) {
   log.error("AutoUpdater:", error);
   return publishUpdaterState({
-    status: "error",
+    status: "unavailable",
     error: friendlyUpdateError(error),
+    notifyUser: Boolean(manual),
+    checkedAt: new Date().toISOString(),
   });
+}
+
+async function checkForUpdatesSafely({ manual = false } = {}) {
+  if (!app.isPackaged) {
+    return publishUpdaterState({ status: "development", error: null, notifyUser: Boolean(manual) });
+  }
+
+  updateCheckMode = manual ? "manual" : "auto";
+  publishUpdaterState({ status: "checking", error: null, notifyUser: false });
+
+  try {
+    await autoUpdater.checkForUpdates();
+    return updaterState;
+  } catch (error) {
+    if (updaterState.status === "unavailable" && updaterState.error) return updaterState;
+    return reportUpdaterError(error, { manual });
+  } finally {
+    updateCheckMode = "auto";
+  }
 }
 
 const orderNotificationCache = new Map();
@@ -230,11 +261,13 @@ async function createWindow() {
       log.info("📦 Rodando build empacotado");
       mainWindow.loadFile(path.join(__dirname, "renderer", "index.html"));
 
-      if (!runtimeUpdateToken) {
-        log.warn("Atualizador iniciado sem GH_TOKEN. Repositórios privados exigem token no computador do usuário.");
-      }
-
-      autoUpdater.checkForUpdatesAndNotify().catch(reportUpdaterError);
+      // O repositório de releases é público. O token é necessário somente na máquina que publica.
+      // A consulta automática é silenciosa para não interromper a operação em falhas temporárias.
+      setTimeout(() => {
+        checkForUpdatesSafely({ manual: false }).catch((error) =>
+          reportUpdaterError(error, { manual: false })
+        );
+      }, 4000);
     }
 
     mainWindow.once("ready-to-show", () => {
@@ -468,12 +501,32 @@ ipcMain.handle("open-external", async (_evt, url) => {
    Atualizações
 ========================= */
 
-autoUpdater.on("checking-for-update", () => publishUpdaterState({status:"checking",error:null}));
-autoUpdater.on("update-not-available", () => publishUpdaterState({status:"up-to-date",availableVersion:null,progress:0,error:null}));
-autoUpdater.on("download-progress", (p) => publishUpdaterState({status:"downloading",progress:Math.round(Number(p?.percent||0))}));
-autoUpdater.on("error", reportUpdaterError);
+autoUpdater.on("checking-for-update", () =>
+  publishUpdaterState({ status: "checking", error: null, notifyUser: false })
+);
+autoUpdater.on("update-not-available", () =>
+  publishUpdaterState({
+    status: "up-to-date",
+    availableVersion: null,
+    progress: 0,
+    error: null,
+    notifyUser: updateCheckMode === "manual",
+    checkedAt: new Date().toISOString(),
+  })
+);
+autoUpdater.on("download-progress", (p) =>
+  publishUpdaterState({
+    status: "downloading",
+    progress: Math.round(Number(p?.percent || 0)),
+    error: null,
+    notifyUser: true,
+  })
+);
+autoUpdater.on("error", (error) =>
+  reportUpdaterError(error, { manual: updateCheckMode === "manual" })
+);
 autoUpdater.on("update-available", (info) => {
-  publishUpdaterState({status:"available",availableVersion:info?.version||null,progress:0,error:null,mandatory:Boolean(info?.releaseNotes && String(info.releaseNotes).includes("[OBRIGATORIA]"))});
+  publishUpdaterState({status:"available",availableVersion:info?.version||null,progress:0,error:null,notifyUser:true,checkedAt:new Date().toISOString(),mandatory:Boolean(info?.releaseNotes && String(info.releaseNotes).includes("[OBRIGATORIA]"))});
   log.info("🔄 Atualização disponível. Baixando...");
   if (mainWindow) mainWindow.webContents.send("atualizacao:disponivel");
   new Notification({
@@ -484,7 +537,7 @@ autoUpdater.on("update-available", (info) => {
 });
 
 autoUpdater.on("update-downloaded", (info) => {
-  publishUpdaterState({status:"ready",availableVersion:info?.version||updaterState.availableVersion,progress:100,error:null});
+  publishUpdaterState({status:"ready",availableVersion:info?.version||updaterState.availableVersion,progress:100,error:null,notifyUser:true,checkedAt:new Date().toISOString()});
   log.info("✅ Atualização baixada. Pronta para instalar.");
   if (mainWindow) mainWindow.webContents.send("atualizacao:pronta");
   new Notification({
@@ -494,12 +547,10 @@ autoUpdater.on("update-downloaded", (info) => {
   }).show();
 });
 
-ipcMain.handle('atualizacao:status', async () => updaterState);
-ipcMain.handle('atualizacao:verificar', async () => {
-  if(!app.isPackaged) return publishUpdaterState({status:'development',error:null});
-  try { publishUpdaterState({status:'checking',error:null}); await autoUpdater.checkForUpdates(); return updaterState; }
-  catch(error){ return reportUpdaterError(error); }
-});
+ipcMain.handle("atualizacao:status", async () => updaterState);
+ipcMain.handle("atualizacao:verificar", async () =>
+  checkForUpdatesSafely({ manual: true })
+);
 ipcMain.handle('diagnostico:get', async () => {
   let printers=[]; try{ printers=mainWindow && !mainWindow.isDestroyed()?await mainWindow.webContents.getPrintersAsync():[]; }catch{}
   return {app:{name:app.getName(),version:app.getVersion(),packaged:app.isPackaged,userData:app.getPath('userData')},system:{platform:process.platform,arch:process.arch,node:process.version,electron:process.versions.electron,hostname:os.hostname()},updater:updaterState,printers:(printers||[]).map(p=>({name:p.name,isDefault:!!p.isDefault,status:p.status})),logs:{main:path.join(app.getPath('userData'),'main.log'),early:earlyLogPath}};

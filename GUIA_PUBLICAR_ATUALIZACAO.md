@@ -1,48 +1,41 @@
-# Como publicar uma atualização do Movyo Desktop
+# Publicar atualização do Movyo Desktop
 
-## 1. Altere a versão
-No `package.json`, aumente a versão seguindo SemVer:
-- correção: `2.2.0` → `2.2.1`
-- nova funcionalidade: `2.2.0` → `2.3.0`
-- mudança incompatível: `2.2.0` → `3.0.0`
+## Configuração atual
 
-## 2. Configure o GitHub
-O `package.json` publica no repositório privado `Heliow9/movyodektop`.
-Crie um token do GitHub com acesso ao repositório e, no PowerShell da máquina de build, execute:
+- Repositório: `Heliow9/movyodektop`
+- Canal: GitHub Releases público
+- Release: publicada automaticamente, não rascunho
+- Token: usado somente na máquina de publicação
 
-```powershell
-$env:GH_TOKEN="SEU_TOKEN_DO_GITHUB"
-```
+## Passos
 
-Não salve o token no `.env`, no Git ou dentro do instalador.
-
-## 3. Instale e gere a versão
+1. Altere a versão no `package.json`.
+2. Abra o PowerShell dentro da pasta do projeto.
+3. Execute:
 
 ```powershell
-npm install
-npm run dist:publish
+powershell -ExecutionPolicy Bypass -File .\publicar-atualizacao.ps1
 ```
 
-O Electron Builder cria o instalador em `release/` e publica a Release com `latest.yml` e os artefatos necessários ao `electron-updater`.
+4. Cole o token quando solicitado.
+5. Aguarde a validação final da release e dos arquivos.
 
-## 4. Atualização obrigatória
-Na descrição/notas da Release do GitHub, inclua exatamente:
+O script executa o build, publica e confirma a existência de:
 
-```text
-[OBRIGATORIA]
-```
+- `latest.yml`
+- `Movyo-Food-Setup-VERSAO.exe`
+- `Movyo-Food-Setup-VERSAO.exe.blockmap`
 
-O Desktop bloqueará a operação com uma tela de atualização até que a nova versão seja baixada e instalada. Use isso somente quando houver incompatibilidade crítica, correção de segurança ou alteração obrigatória da API.
+## Teste correto após a correção 2.2.2
 
-## 5. Atualização normal
-Sem `[OBRIGATORIA]`, o app baixa em segundo plano e mostra o botão **Reiniciar e atualizar**.
+A versão 2.2.1 foi empacotada com o canal antigo marcado como privado. Instale manualmente a 2.2.2 uma única vez.
 
-## 6. Teste antes de liberar
-1. Instale a versão anterior em outro computador.
-2. Publique a nova versão como Release.
-3. Abra a versão anterior.
-4. Confira em **Diagnóstico → Atualização**.
-5. Valide download, reinício, versão e impressão.
+Depois:
 
-## Observação sobre repositório privado
-Aplicações distribuídas para clientes não devem depender de um token secreto embutido. Para produção, o recomendado é publicar os artefatos de atualização em um repositório público exclusivo para releases ou em um servidor/S3 com URL assinada. O código atual mantém compatibilidade com GitHub privado quando `GH_TOKEN` estiver disponível no ambiente apropriado.
+1. mantenha a 2.2.2 instalada;
+2. altere o projeto para 2.2.3;
+3. publique a 2.2.3 com o script;
+4. abra a 2.2.2;
+5. acesse Diagnóstico e clique em `Verificar update`.
+
+O esperado é detectar, baixar e instalar a 2.2.3 sem token no computador do restaurante.
